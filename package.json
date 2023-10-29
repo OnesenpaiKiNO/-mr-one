@@ -1,0 +1,22 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "siswanda @mr-one ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnesenpaiKiNO/-mr-one.git"
+  },
+  "keywords": [
+    "mr-one"
+  ],
+  "author": "@mr-one <anilovaofc123@gmail.com> (https://github.com/OnesenpaiKiNO)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OnesenpaiKiNO/-mr-one/issues"
+  },
+  "homepage": "https://github.com/OnesenpaiKiNO/-mr-one#readme"
+}
